@@ -1,5 +1,7 @@
 # How to Run
 
+Clone repository or download ZIP file
+
 In the projects' root directory you can run
 
 ## `npm install`
