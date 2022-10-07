@@ -1,6 +1,10 @@
 # How to Run
 
-In the projects' root directory you can run:
+In the projects' root directory you can run
+
+## `npm install`
+
+First install dependencies
 
 ## `npm start` or `npm run dev`
 
